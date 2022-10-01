@@ -12,7 +12,7 @@ public class Questao16
 		System.out.println("Digite a plulação atual do país A: ");
 		double pA = sc.nextDouble();
 		
-		System.out.println("Digite a plulação atual do país A: ");
+		System.out.println("Digite a plulação atual do país B: ");
 		double pB = sc.nextDouble();
 		
 
