@@ -17,7 +17,7 @@ public class Questao17
 		{
 			contador=0; // um contador iniciando em zero
 			n1=sc.nextInt();// solicitação de um numero
-			for(int j = 2 ; j<n1; j++)
+			for(int j = 2 ; j < n1; j++)
 			{
 				if (n1 % j == 0) contador++;
 			}
